@@ -34,15 +34,11 @@
 * rectangle();
 
 ## Start
-```
 View-->Command Palatte...
 OpenCV Intellisense
-```
 
 ## Features
-```
 Support for OpenCV Core in C++
-```
 
 ## Requirements
 
@@ -50,12 +46,14 @@ VSCode
 
 ## Extension Settings
 
-
-## Known Issues
-
-
 ## Release Notes
 
-### 1.0.0
+### 0.0.1
 
-Initial release of OpenCV Intellisense
+* Initial release of OpenCV Intellisense
+
+### 0.0.2
+
+* Fixed MarkDown File
+* Add Status Bar Msg
+

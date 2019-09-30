@@ -18,7 +18,10 @@ export function activate(context: vscode.ExtensionContext) {
 
 		// Display a message box to the user
 		vscode.window.showInformationMessage('Welcome to OpenCV Intellisense');
+		//Display Status Bar Msg to the user
+		vscode.window.setStatusBarMessage('OpenCV Extension Started');
 	});
+
 
 	//Completion
 	const provider1 = vscode.languages.registerCompletionItemProvider(
