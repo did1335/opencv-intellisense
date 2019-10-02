@@ -30,5 +30,5 @@ putText();
 Rect
 RotatedRect
 rectangle();
-
-
+CvGraph
+CvGraphScanner

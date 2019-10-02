@@ -32,6 +32,18 @@
 * Rect
 * RotatedRect
 * rectangle();
+* CvMemStorage 
+* CvMemBlock 
+* CvMemStoragePos 
+* CvSeq
+* CvSlice 
+* CvSet 
+* CvSetElem 
+* CvGraph 
+* CvGraphVtx
+* CvGraphEdge 
+* CvGraphScanner 
+* CvTreeNodeIterator
 
 ## Start
 View-->Command Palatte...
@@ -56,4 +68,8 @@ VSCode
 
 * Fixed MarkDown File
 * Add Status Bar Msg
+
+### 0.0.3
+
+* Add 12 API
 
