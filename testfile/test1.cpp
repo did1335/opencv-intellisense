@@ -32,3 +32,4 @@ RotatedRect
 rectangle();
 CvGraph
 CvGraphScanner
+CvBox2D
